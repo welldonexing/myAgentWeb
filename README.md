@@ -264,24 +264,21 @@ Java 注入类不要混淆 ， 例如 sample 里面的 AndroidInterface 类 ， 
 
 
 ## 有问题或者有更好的建议
-* [![QQ0Group][qq0groupsvg]][qq0group]
+*
 * 欢迎提 [Issues](https://github.com/Justson/AgentWeb/issues)
 
 
 ## 关于我
 一个位于深圳的 Android 开发者 ， 如果你有问题 ， 请联系 Email : xiaozhongcen@gmail.com
 
-## 赞赏
-如果你喜欢了 `AgentWeb` 的设计 ， 你也可以请作者喝一杯咖啡。
 
-<a href="img/alipay.jpg"><img src="img/alipay.jpg" width="30%"/></a> <a href="img/wechat_pay.jpg"><img src="img/wechat_pay.jpg" width="30%"/></a> <a href="img/alipay.jpg"><img src="img/alipay.jpg" width="30%"/></a>
+
+
 
 
 [licensesvg]: https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg
 [license]: https://github.com/Justson/AgentWeb/blob/master/LICENSE
 
-[qq0groupsvg]: https://img.shields.io/badge/QQ群-599471474-fba7f9.svg
-[qq0group]: http://qm.qq.com/cgi-bin/qm/qr?k=KpyfInzI2nr-Lh4StG0oh68GpbcD0vMG
 
 
 ###  [AgentWeb](https://github.com/Justson/AgentWeb)  
