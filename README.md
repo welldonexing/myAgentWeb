@@ -231,58 +231,6 @@ Java 注入类不要混淆 ， 例如 sample 里面的 AndroidInterface 类 ， 
 ```
 
 
-## 文档帮助
-* [Wiki](https://github.com/Justson/AgentWeb/wiki)(不全)
-* `Sample`(推荐，详细) 
-
-## [更新日志](./releasenote.md)
-
-## 致谢
-* [SafeWebView](https://github.com/seven456/SafeWebView)
-
-* [WebView 参考文献](https://juejin.im/post/58a037df86b599006b3fade4)
-
-
-## 有问题或者有更好的建议
-*
-* 欢迎提 [Issues](https://github.com/Justson/AgentWeb/issues)
-
-
-## 关于我
-一个位于深圳的 Android 开发者 ， 如果你有问题 ， 请联系 Email : xiaozhongcen@gmail.com
-
-
-
-
-
-
-[licensesvg]: https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg
-[license]: https://github.com/Justson/AgentWeb/blob/master/LICENSE
-
-
-
-###  [AgentWeb](https://github.com/Justson/AgentWeb)  
-
-
-[![License][licensesvg]][license]
-## License 
-```
-Copyright (C)  Justson(https://github.com/Justson/AgentWeb)
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-     http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
-
-​	
 
 ​	  
 
