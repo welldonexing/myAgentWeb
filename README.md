@@ -1,15 +1,4 @@
-
-<div style="display: flex;flex-direction: row;justify-content: center" width="100%">
-      <img src="./img/logo.png"></img>
-</div>
-
-## AgentWeb 介绍
-
-AgentWeb 是一个基于的 Android WebView ，极度容易使用以及功能强大的库，提供了 Android WebView 一系列的问题解决方案 ，并且轻量和极度灵活，体验请下载的 
-[agentweb.apk](https://github.com/Justson/AgentWeb/raw/master/agentweb.apk)，
-或者你也可以到 Google Play 里面下载 [AgentWeb](https://play.google.com/store/apps/details?id=com.just.agentweb.sample) ，
-详细使用请参照上面的 Sample 。
-	
+agentweb 修改备用
 
 ## 引入
 
@@ -42,15 +31,6 @@ mAgentWeb = AgentWeb.with(this)
 
 ```
 
-
-## 效果图 
-<a href="img/img-function-list.png"><img src="img/img-function-list.png" width="30%"/></a> <a href="img/img-permission.png"><img src="img/img-permission.png" width="30%"/></a> <a href="img/img-sonic.png"><img src="img/img-sonic.png" width="30%"/></a>
-
-<a href="img/img-scheme.png"><img src="img/img-scheme.png" width="30%"/></a> <a href="img/img-download.png"><img src="img/img-download.png" width="30%"/></a> <a href="img/img-bounce.png"><img src="img/img-bounce.png" width="30%"/></a>
-
-<a href="img/jd.png"><img src="img/jd.png" width="30%"/></a> <a href="img/wechat pay.png"><img src="img/wechat pay.png" width="30%"/></a> <a href="img/alipay.png"><img src="img/alipay.png" width="30%"/></a>
-
-<a href="img/js.png"><img src="img/js.png" width="30%"/></a> <a href="img/custom setting.png"><img src="img/custom setting.png" width="30%"/></a> <a href="img/video.png"><img src="img/video.png" width="30%"/></a>
 
 
 
